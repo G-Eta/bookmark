@@ -40,11 +40,5 @@
 .light-blue{
     color:#2750A8;
 }
-.bookmark{
-    display: flex;
-    flex-direction: column;
-    justify-items: center;
-    align-items: center;
-    margin: 0 auto;
-}
+
 
